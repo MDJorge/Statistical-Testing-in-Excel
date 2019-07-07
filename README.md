@@ -6,7 +6,7 @@ Chapter 1: Data and Problem Solving
 
 Chapter 2: Graphical Descriptions of Data
 
-3.1	Measures of Center
+Chapter 3: Numerical Descriptions of Data
 
 Chapter 4: Probability, Randomness, and Uncertainty
 
