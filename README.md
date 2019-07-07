@@ -1,6 +1,6 @@
 # Statistical-Testing-in-Excel
 
-Workbooks to perform the tests in Hawkes
+Workbooks to perform the tests in Hawkes' Beginning Statistics
 
 Chapter 1: Data and Problem Solving
 
